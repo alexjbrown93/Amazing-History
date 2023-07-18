@@ -1,0 +1,12 @@
+#STRUCTURE
+- Header "Amazing History Facts"
+- Paragraph explaining two-lies-one-truth quiz
+- 3 buttons for the quiz
+
+#STYLE
+- style the buttons
+- add classes for button (if have time)
+
+#FUNCTIONALITY
+- send alert in case of right answer
+- different message in case of error
